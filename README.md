@@ -13,4 +13,4 @@
 2. **_Output.txt_ file will be created for you which contain the original text**
 
 # Future Work
-   **Develop the algorithm for Image-Compression**
+ -  **Develop the algorithm for Image-Compression**
