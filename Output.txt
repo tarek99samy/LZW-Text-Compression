@@ -1,3 +1,0 @@
-i am learning compression algorithm called lzw
-i am a computer engineer student
-to day is 5/7/2020 
